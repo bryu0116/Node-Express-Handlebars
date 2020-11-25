@@ -11,9 +11,14 @@
     "url": "git+https://github.com/bryu0116/Node-Express-Handlebars.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bryu0116/Node-Express-Handlebars/issues"
   },
-  "homepage": "https://github.com/bryu0116/Node-Express-Handlebars#readme"
+  "homepage": "https://github.com/bryu0116/Node-Express-Handlebars#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1"
+  }
 }
